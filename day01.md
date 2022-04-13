@@ -2,8 +2,6 @@
 
 ## 1. CLI 기초
 
----
-
 1. 파일을 생성하는 명령어 (touch)
 
 2. 디렉토리를 생성하는 명령어 (mkdir)
@@ -28,8 +26,6 @@
 
 
 ## 2. 마크다운 작성법 및 실습
-
----
 
 ### 2.1 마크다운 작성법
 
@@ -110,8 +106,6 @@ import java.util.Scanner;
 
 ## 3. Git 기초
 
----
-
 0. 초기설정
    - git config --global user.name "유저명"
    - git config --global user.email "깃허브 메일"
@@ -137,8 +131,6 @@ import java.util.Scanner;
 
 
 ## 4. Github
-
----
 
 1. new repository 만들고 url 복사
 
