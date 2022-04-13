@@ -106,26 +106,26 @@ import java.util.Scanner;
 
 ## 3. Git 기초
 
-0. 초기설정
+![img](https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7142d992-3d01-481c-9d4e-e818c6e185d8%2FUntitled.png?table=block&id=efde7780-6ff4-4484-9f44-9c1727b204f2&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1600&userId=&cache=v2)
+
+0. Git : 분산 버전 관리 프로그램
+   - 최종 파일과 변경사항을 통해(델타방식) 이전 버전까지 관리 가능
+   - Git의 3가지 공간에는 Working Directory, Staging Area, Commits
+1. 초기설정
    - git config --global user.name "유저명"
    - git config --global user.email "깃허브 메일"
-
-1. 폴더를 저장소로 만들기
+2. 폴더를 저장소로 만들기
 
    - git init 						// 폴더 (master) 지정
 
    - touch README.md   // 파일만들기
-
-2. 무대 위로 올리기 (staging area)
+3. 무대 위로 올리기 (staging area)
    - git add README.md
-
-3. 파일 상태 확인
+4. 파일 상태 확인
    - git status
-
-4. 변경사항 기록(commits)
+5. 변경사항 기록(commits)
    - git commit -m "커밋 메세지"
-
-5. 변경사항 log 확인
+6. 변경사항 log 확인
    - git log (--oneline)
 
 
