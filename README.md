@@ -3,35 +3,18 @@
 
 ## 01. Java
 
-	1. 
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
-	1.  
+
 
 ## 02. DB
 
-	1. [DB개요](C:\Users\hoon3\Git\TIL\DB\DB01_DB개요.md)
-	1. [SQL](C:\Users\hoon3\Git\TIL\DB\◐DB02_SQL.md)
+1. [DB개요](https://github.com/hoon105204/TIL/blob/master/DB/DB01_DB%EA%B0%9C%EC%9A%94.md)
+2. [SQL](https://github.com/hoon105204/TIL/blob/master/DB/%E2%97%90DB02_SQL.md)
 
 ## 03. Git
 
-	1. [Git명령어정리](C:\Users\hoon3\Git\TIL\Git\00Git명령어정리.md)
-	1. [Git개요](C:\Users\hoon3\Git\TIL\Git\01Git개요.md)
-	1. [Git활용](C:\Users\hoon3\Git\TIL\Git\02Git활용.md)
+1. [Git명령어정리](https://github.com/hoon105204/TIL/blob/master/Git/00Git%EB%AA%85%EB%A0%B9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
+2. [Git개요](https://github.com/hoon105204/TIL/blob/master/Git/01Git%EA%B0%9C%EC%9A%94.md)
+3. [Git활용](https://github.com/hoon105204/TIL/blob/master/Git/02Git%ED%99%9C%EC%9A%A9.md)
 
 ## 04. 자료구조 및 알고리즘
 
