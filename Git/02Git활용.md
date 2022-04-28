@@ -45,7 +45,7 @@ git 명령어를 사용할건데, origin이라는 원격 저장소의 master 브
 
 - .gitignore 예시
 
-![img](https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffd7bd601-9433-418a-b08e-7b027db9a301%2FUntitled.png?table=block&id=26ab9b0d-1b59-48e3-9c60-b3f8f15fee87&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1060&userId=&cache=v2)
+<img src="https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffd7bd601-9433-418a-b08e-7b027db9a301%2FUntitled.png?table=block&id=26ab9b0d-1b59-48e3-9c60-b3f8f15fee87&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1060&userId=&cache=v2" alt="img" style="zoom:80%;" />
 
 
 
@@ -53,7 +53,7 @@ git 명령어를 사용할건데, origin이라는 원격 저장소의 master 브
 
 ### 3.1 브랜치(Branch)란?
 
-![img](https://blog.kakaocdn.net/dn/t3Ih1/btqFvuOfQFZ/HrlGV5obNZ9NNRmOnEbkok/img.png)
+<img src="https://blog.kakaocdn.net/dn/t3Ih1/btqFvuOfQFZ/HrlGV5obNZ9NNRmOnEbkok/img.png" alt="img" style="zoom:67%;" />
 
 - `브랜치`란 나뭇가지처럼 여러 갈래로 작업 공간을 나누어 독립적으로 작업할 수 있도록 도와주는 Git의 도구
 - **장점**
@@ -100,7 +100,7 @@ $ git switch -c <브랜치 이름> <커밋 ID>
 
 - 브랜치 그래프는 `git log --oneline --all --graph`를 통해 보거나 혹은 툴을 다운받아 볼 수 있다.
 
-![image-20220414173311338](C:\Users\hoon3\AppData\Roaming\Typora\typora-user-images\image-20220414173311338.png)
+<img src="C:\Users\hoon3\Git\TIL\Git\image\image-20220414173311338.png" alt="image-20220414173311338" style="zoom: 80%;" />
 
 ## 4. git merge
 
