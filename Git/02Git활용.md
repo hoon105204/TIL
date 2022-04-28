@@ -100,7 +100,7 @@ $ git switch -c <브랜치 이름> <커밋 ID>
 
 - 브랜치 그래프는 `git log --oneline --all --graph`를 통해 보거나 혹은 툴을 다운받아 볼 수 있다.
 
-<img src="C:\Users\hoon3\Git\TIL\Git\image\image-20220414173311338.png" alt="image-20220414173311338" style="zoom: 80%;" />
+<img src=".\image\image-20220414173311338.png" alt="image-20220414173311338" style="zoom: 80%;" />
 
 ## 4. git merge
 
