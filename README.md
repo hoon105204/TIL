@@ -10,6 +10,9 @@
 1. [DB개요](https://github.com/hoon105204/TIL/blob/master/DB/DB01_DB%EA%B0%9C%EC%9A%94.md)
 2. [SQL](https://github.com/hoon105204/TIL/blob/master/DB/%E2%97%90DB02_SQL.md)
 
+## JDBC
+1. [JDBC 코딩절차](./JDBC/DB01_JDBC.md)
+
 ## Git
 
 1. [Git명령어정리](https://github.com/hoon105204/TIL/blob/master/Git/00Git%EB%AA%85%EB%A0%B9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
