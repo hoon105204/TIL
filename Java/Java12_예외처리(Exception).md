@@ -13,13 +13,16 @@
 - **RuntimeException** 클래스 : Unchecked Exception으로 주로 프로그래머의 부주의로 인한 오류인 경우가 많기 때문에 예외 처리보다는 코드를 수정해야 하는 경우가 많음
 - RuntimeException 후손 클래스
   1. ArithmeticException
+     0으로 나눈느 경우 발생 ~> if 문으로 나누는 수가 0인지 검사
   2. NullPointerException
+     Null인 참조 변수로 객체 멤버 참조 시도 시 발생 ~> 객체 사용 전에 참조 변수가 null인지 확인
   3. ArrayIndexOutOfBoundsException
+     배열의 index 범위를 넘어서 참조하는 경우 발생 ~> 배열명.length를 사용하여 배열의 범위 확인
   4. ClassCastException
+     Cast 연산자 사용 시 타입 오류 ~> instanceof 연산자로 객체타입 확인 후 cast 연산
   5. NegativeArraySizeException
-
+     배열 크기를 음수로 지정한 경우 발생 ~> 배열의 크기를 0보다 크게 지정해야 함
 - Exception 확인하기
-
 - 예외처리 방법
   1. Exception 처리를 호출한 메소드에게 위임
-  2. Exception이 발생한 곳에서 직접 처리
+  2. Exception이 발생한 곳에서 직접 처리(try ~ catch문)

@@ -60,6 +60,7 @@
 - ResultSet
   SELECT문을 사용한 질의 성공 시 Result Set 반환
   SQL 질의에 의해 생성된 테이블을 담고 있으며 커서(cursor)로 특정 행에 대한 참조 조작
+  
   <img src=".\image\DB01_02ResultSet.png" alt="DB01_02ResultSet" style="zoom:67%;" />
 
 **JDBC 코딩 절차**
