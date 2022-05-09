@@ -2,7 +2,7 @@
 - Today I Learned. 오늘 공부한 내용을 남깁니다.
 
 ## Java
-1. [프로그래밍 기초](./Java/Java01_프로그래밍기초.md)
+1. [프로그래밍 기초](./Java/Java01_프로그래밍기초.md){:target="_blank"}
 2. [변수](./Java/Java02_변수.md)
 3. [연산자와 메서드](./Java/Java03_연산자와메서드.md)
 4. [제어문](./Java/Java04_제어문.md)
