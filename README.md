@@ -14,7 +14,7 @@
 10. [기본API](./Java/Java11_기본API.md)
 11. [예외처리](./Java/Java12_예외처리(Exception).md)
 12. [입출력(IO)](./Java/Java13_입출력(IO).md)
-13. [컬렉션](./Java/◐Java14_컬렉션(Collection).md)
+13. [컬렉션](./Java/Java14_컬렉션(Collection).md)
 14. [스레드](./Java/Java15_스레드.md)
 15. [네트워크](./Java/Java16_네트워크.md)
 
