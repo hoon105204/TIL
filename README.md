@@ -22,7 +22,7 @@
 ## DB
 
 1. [DB개요](./DB/DB01_DB개요.md)
-2. [SQL](https://github.com/hoon105204/TIL/blob/master/DB/%E2%97%90DB02_SQL.md)
+2. [SQL](./DB/DB02_SQL.md)
 
 ## JDBC
 1. [JDBC 코딩절차](./JDBC/DB01_JDBC.md)
