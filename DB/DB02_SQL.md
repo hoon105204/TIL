@@ -68,6 +68,12 @@
   ```
   
   - **INSERT** : 데이터 **삽입**
+  
+  ```mysql
+  -- DEPARTMENT에 VALUE 추가하기
+  Insert into DEPARTMENT (DEPT_ID,DEPT_TITLE,LOCATION_ID) values ('D1','인사관리부','L1');
+  ```
+  
   - **UPDATE** : 데이터 **수정**
   - **DELETE** : 데이터 **삭제**
 
@@ -82,10 +88,11 @@
   - **GRANT** : DB 권한 부여
 
   - **REVOKE** : DB 권한 삭제
-      \* TCL (Transaction Contraoll Language) : COMMIT, ROLLBACK
+      TCL (Transaction Contraoll Language) : COMMIT, ROLLBACK
 
 
 
 **TIP** DBeaver 사용
+
 - Alt + x : 드래그한 부분실행
 - Ctrl + Enter : 커서위치 실행
