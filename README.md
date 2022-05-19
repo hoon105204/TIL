@@ -23,14 +23,14 @@
 
 1. [DB01_개요](./DB/DB01_DB개요.md)
 2. [DB02_SQL](./DB/DB02_SQL.md)
-2. [DB03_함수](./DB/DB03_함수.md)
-2. [DB04_SELECT](./DB/DB04_SELECT.md)
-2. [DB05_SetOperation](./DB/DB05_SetOperation.md)
-2. [DB06_SubQuery](./DB/DB06_SubQuery.md)
-2. [DB07_DDL](./DB/DB07_DDL.md)
-2. [DB08_DML](./DB/DB08_DML.md)
-2. [DB09_TCL](./DB/DB09_TCL.md)
-2. [DB10_View](./DB/DB10_View.md)
+3. [DB03_함수](./DB/DB03_함수.md)
+4. [DB04_SELECT](./DB/DB04_SELECT.md)
+5. [DB05_SetOperation](./DB/DB05_SetOperation.md)
+6. [DB06_SubQuery](./DB/DB06_SubQuery.md)
+7. [DB07_DDL](./DB/DB07_DDL.md)
+8. [DB08_DML](./DB/DB08_DML.md)
+9. [DB09_TCL](./DB/DB09_TCL.md)
+10. [DB10_View](./DB/DB10_View.md)
 
 ## JDBC
 1. [JDBC 코딩절차](./JDBC/DB01_JDBC.md)

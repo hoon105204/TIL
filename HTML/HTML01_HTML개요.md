@@ -13,7 +13,7 @@
 
 <img src=".\image\HTML01_01웹처리과정.png" alt="HTML01_01웹처리과정" style="zoom:67%;" />
 
-웹 특징
+**웹 특징**
 
 - HTTP(Hyper Text Transfer Protocol) 사용
 - HTML(Hyper Text Markup Language)로 작성된 문서 연결
@@ -65,7 +65,7 @@
 <html lang = "ko">
     <head>
         문서의 각종 정보와 문서 자체에 대한 설명 내용
-        <!-- <title>, <meta>, <link>, <style>, <script> -->등 사용
+        <!-- <title>, <meta>, <link>, <style>, <script> -->등의 태그 사용
     </head>
     <body>
             화면에 출력해서 보여주는 모든 정보/내용
