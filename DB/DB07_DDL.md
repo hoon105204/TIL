@@ -57,7 +57,7 @@ insert into USER_GRADE VALUES(3, 'VVIP');
 insert into USER_GRADE VALUES(4, 'VVVIP');
 ```
 
-![DB07_01FoerignKey](.\image\DB07_01FoerignKey.png)
+<img src=".\image\DB07_01FoerignKey.png" alt="DB07_01FoerignKey" style="zoom:100%;" />
 
 ```mysql
 -- USER_GRADE를 참조하는 테이블 생성
@@ -77,7 +77,7 @@ insert into USER_FOERIGN_KEY VALUES(3, 'USER03', 'PASS03', 'M', 1);
 insert into USER_FOERIGN_KEY VALUES(4, 'USER04', 'PASS04', 'F', 3);
 ```
 
-![DB07_01FoerignKey2](.\image\DB07_01FoerignKey2.png)
+<img src=".\image\DB07_01FoerignKey2.png" alt="DB07_01FoerignKey2" style="zoom:100%;" />
 
 ```mysql
 select * from USER_GRADE;

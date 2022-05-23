@@ -18,7 +18,7 @@ FROM EMPLOYEE
 where SALARY >3000000;
 ```
 
-![DB05_01union](.\image\DB05_01union.png)
+<img src=".\image\DB05_01union.png" alt="DB05_01union" style="zoom:100%;" />
 
 ## JOIN
 
@@ -60,7 +60,7 @@ from employee E
 join SAL_GRADE S on ( SALARY between MIN_SAL and MAX_SAL);
 ```
 
-![DB05_02join](.\image\DB05_02join.png)
+<img src=".\image\DB05_02join.png" alt="DB05_02join" style="zoom:100%;" />
 
 ```mysql
 -- SELF JOIN
