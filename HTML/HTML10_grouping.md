@@ -57,4 +57,4 @@
 </style>
 ```
 
-<img src="C:\Users\hoon3\Git\TIL\HTML\image\HTML10_02test.png" alt="HTML10_02test" style="zoom:75%;" />
+<img src=".\image\HTML10_02test.png" alt="HTML10_02test" style="zoom:75%;" />
