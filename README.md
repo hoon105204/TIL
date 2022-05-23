@@ -43,16 +43,16 @@
 
 ## HTML
 
-	1. [HTML01_HTML개요](./HTML/HTML01_HTML개요.md)
-	1. [HTML02_block_inline](./HTML/HTML02_block_inline.md)
-	1. [HTML03_titleText](./HTML/HTML03_titleText.md)
-	1. [HTML04_list](./HTML/HTML04_list.md)
-	1. [HTML05_image](./HTML/HTML05_image.md)
-	1. [HTML06_a](./HTML/HTML06_a.md)
-	1. [HTML07_table](./HTML/HTML07_table.md)
-	1. [HTML08_area](./HTML/HTML08_area.md)
-	1. [HTML09_form](./HTML/HTML09_form.md)
-	1. [HTML10_grouping](./HTML/HTML10_grouping.md)
+1. [HTML01_HTML개요](./HTML/HTML01_HTML개요.md)
+2. [HTML02_block_inline](./HTML/HTML02_block_inline.md)
+3. [HTML03_titleText](./HTML/HTML03_titleText.md)
+4. [HTML04_list](./HTML/HTML04_list.md)
+5. [HTML05_image](./HTML/HTML05_image.md)
+6. [HTML06_a](./HTML/HTML06_a.md)
+7. [HTML07_table](./HTML/HTML07_table.md)
+8. [HTML08_area](./HTML/HTML08_area.md)
+9. [HTML09_form](./HTML/HTML09_form.md)
+10. [HTML10_grouping](./HTML/HTML10_grouping.md)
 
 ## CSS
 
