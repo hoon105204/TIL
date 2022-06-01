@@ -27,4 +27,4 @@
 
 ```
 
-<img src="C:\Users\hoon3\Git\TIL\HTML\image\HTML08_01area.png" alt="HTML08_01area" style="zoom:75%;" />
+<img src=".\image\HTML08_01area.png" alt="HTML08_01area" style="zoom:75%;" />
