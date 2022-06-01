@@ -41,13 +41,11 @@ git 명령어를 사용할건데, origin이라는 원격 저장소의 master 브
 
 ## 2. .gitignore
 
-> 특정 파일 혹은 폴더에 대해 Git이 버전 관리를 하지 못하도록 지정하는 것
+> .gitignore파일을 생성하여 특정 파일 혹은 폴더에 대해 Git이 버전 관리를 하지 못하도록 지정하는 것
+>
+> [gitignore.io](https://www.toptal.com/developers/gitignore)에서 간편하게 파일 생성 가능
 
-- .gitignore 예시
-
-<img src="https://hphk.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffd7bd601-9433-418a-b08e-7b027db9a301%2FUntitled.png?table=block&id=26ab9b0d-1b59-48e3-9c60-b3f8f15fee87&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1060&userId=&cache=v2" alt="img" style="zoom:80%;" />
-
-
+<img src=".\image\화면 캡처 2022-06-01 104209.png" alt="화면 캡처 2022-06-01 104209" style="zoom:80%;" />
 
 ## 3. 브랜치(Branch)
 
