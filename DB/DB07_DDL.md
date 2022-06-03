@@ -22,6 +22,7 @@ CREATE table MEMBER(
 -- CHECK : 지정한 입력사항 외에는 받지 못하게 막는 조건 (EX. 남/여, 0보다 큰값)
 -- PRIMARY KEY : NOT NULL + UNIQUE 테이블 내에서 해당 행을 인식할 수 있는 고유 값
 -- FOREIGN KEY : 다른 테이블에서 저장된 값을 연결 지어서 참조로 가져오는 데이터에 지정하는 제약조건
+-- binary : 대소문자를 구분하는 조건
 
 -- 테이블의 설정조건을 확인
 select * from INFORMATION_SCHEMA.TABLE_CONSTRAINTS
